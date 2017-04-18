@@ -1,0 +1,1352 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+Eadder
+Z0 w1476800311
+Z1 DPx4 work 7 mytypes 0 22 dnNeOmhPb1jf[NH;F?HQk3
+Z2 DPx4 ieee 16 std_logic_signed 0 22 C<aanc0R`<LWPSe[JYRP^3
+Z3 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z6 dC:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA
+Z7 8C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.b-adder.vhd
+Z8 FC:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.b-adder.vhd
+l0
+L8
+V?j?fbG:gY4li]?A`@ZP^J0
+!s100 @26O4IGe3l09BYcQM?5j`1
+Z9 OP;C;10.4a;61
+32
+Z10 !s110 1477645248
+!i10b 1
+Z11 !s108 1477645248.000000
+Z12 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.b-adder.vhd|
+Z13 !s107 C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.b-adder.vhd|
+!i113 1
+Z14 o-work work -2002 -explicit -O0
+Z15 tExplicit 1
+Abeh
+R1
+R2
+R3
+R4
+R5
+DEx4 work 5 adder 0 22 ?j?fbG:gY4li]?A`@ZP^J0
+l20
+L18
+VVlOZ81]HI@Oc8W7hX>nEO3
+!s100 i:1lkb=Fg_LBE^Hb55?^h0
+R9
+32
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Ealu
+Z16 w1477128189
+R1
+R3
+Z17 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+R4
+R5
+R6
+Z18 8C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a-alu.vhd
+Z19 FC:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a-alu.vhd
+l0
+L8
+VUaHH18B5flgIF33`j;z:g2
+!s100 zF>EGS34LLSiPmNK?_8HR1
+R9
+32
+Z20 !s110 1477645247
+!i10b 1
+Z21 !s108 1477645247.000000
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a-alu.vhd|
+Z23 !s107 C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a-alu.vhd|
+!i113 1
+R14
+R15
+Abeh
+R1
+R3
+R17
+R4
+R5
+DEx4 work 3 alu 0 22 UaHH18B5flgIF33`j;z:g2
+l75
+L15
+VS1WOMjE]W]o]Tkb1j=d9S1
+!s100 :?98<]GiimLQOhJcRBH=o1
+R9
+32
+R20
+!i10b 1
+R21
+R22
+R23
+!i113 1
+R14
+R15
+Ebranch
+Z24 w1477240215
+R1
+R4
+R5
+R6
+Z25 8C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.f-BRANCH.vhd
+Z26 FC:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.f-BRANCH.vhd
+l0
+L6
+VXeelm`;<XChB;MCg<<2?d2
+!s100 g<WA;NVn[0cmQ`7>0Z[j@3
+R9
+32
+R10
+!i10b 1
+R11
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.f-BRANCH.vhd|
+Z28 !s107 C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.f-BRANCH.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R1
+R4
+R5
+DEx4 work 6 branch 0 22 Xeelm`;<XChB;MCg<<2?d2
+l18
+L16
+VQ132i]on1GlEjz0NRj>RQ2
+!s100 gUD^3zEA^aHieYl=S3JkZ3
+R9
+32
+R10
+!i10b 1
+R11
+R27
+R28
+!i113 1
+R14
+R15
+Ecarry_select
+Z29 w1476811361
+R1
+R4
+R5
+R6
+Z30 8C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.a.b.a-carry_select.vhd
+Z31 FC:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.a.b.a-carry_select.vhd
+l0
+L6
+Vjj0OFA@GA2kCW^>Ve`APb3
+!s100 5EdP]RJP1C^@<XkQbiRJ`1
+R9
+32
+R20
+!i10b 1
+R21
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.a.b.a-carry_select.vhd|
+Z33 !s107 C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.a.b.a-carry_select.vhd|
+!i113 1
+R14
+R15
+Astructural
+R1
+R4
+R5
+DEx4 work 12 carry_select 0 22 jj0OFA@GA2kCW^>Ve`APb3
+l39
+L14
+V:UV6l=fOGVnBfGldo5co62
+!s100 jTe[]h2AM3XNi<=FT=<<70
+R9
+32
+R20
+!i10b 1
+R21
+R32
+R33
+!i113 1
+R14
+R15
+Ecomparator
+Z34 w1477126239
+R1
+R3
+R17
+R4
+R5
+R6
+Z35 8C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.d-COMPARATOR.vhd
+Z36 FC:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.d-COMPARATOR.vhd
+l0
+L7
+VjR0Ef_m5U0^lgS^EGGMjn2
+!s100 >]IjgbbzXNQ]K==<?TZRA0
+R9
+32
+R20
+!i10b 1
+R21
+Z37 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.d-COMPARATOR.vhd|
+Z38 !s107 C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.d-COMPARATOR.vhd|
+!i113 1
+R14
+R15
+Abehavior
+R1
+R3
+R17
+R4
+R5
+DEx4 work 10 comparator 0 22 jR0Ef_m5U0^lgS^EGGMjn2
+l26
+L20
+V9_J31PSIE9OJG?YC5Ca^i0
+!s100 ecWlhP7]Oi91XPllJkVD=2
+R9
+32
+R20
+!i10b 1
+R21
+R37
+R38
+!i113 1
+R14
+R15
+Pconstants
+w1458140758
+R6
+8C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/constants.vhd
+FC:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/constants.vhd
+l0
+L1
+V?;JHA8bi33K<9TP4]m1mj0
+!s100 ao2OCjO4DZ@K:2meGKCRi1
+R9
+32
+!s110 1477643891
+!i10b 1
+!s108 1477643891.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/constants.vhd|
+!s107 C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/constants.vhd|
+!i113 1
+R14
+R15
+Edatapath
+Z39 w1477158754
+R1
+Z40 DPx4 work 11 logfunction 0 22 RiZQ^4Mn@ALPCHI7CN8M]3
+R17
+R3
+R4
+R5
+R6
+Z41 8C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b-DataPath_NEW.vhd
+Z42 FC:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b-DataPath_NEW.vhd
+l0
+L10
+V2XoZ939QXem@CzGeOCaa52
+!s100 ZDYhbFaEJO=[<F_zB4H^]2
+R9
+32
+R10
+!i10b 1
+R11
+Z43 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b-DataPath_NEW.vhd|
+Z44 !s107 C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b-DataPath_NEW.vhd|
+!i113 1
+R14
+R15
+Astructural
+R1
+R40
+R17
+R3
+R4
+R5
+DEx4 work 8 datapath 0 22 2XoZ939QXem@CzGeOCaa52
+l207
+L65
+V4gGi^T]QbM>]Z4IPfO;=01
+!s100 =Z5ZC1=ORnSRRX[cmCN8L3
+R9
+32
+R10
+!i10b 1
+R11
+R43
+R44
+!i113 1
+R14
+R15
+Edlx
+Z45 w1477239939
+R1
+R4
+R5
+R6
+Z46 8C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a-DLX _NEW.vhd
+Z47 FC:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a-DLX _NEW.vhd
+l0
+L8
+VnBdBQ7N^mbR9C6z>@M6>`3
+!s100 j]z]X^R:]?:zddXMZ6nGi1
+R9
+32
+Z48 !s110 1477645249
+!i10b 1
+R11
+Z49 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a-DLX _NEW.vhd|
+Z50 !s107 C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a-DLX _NEW.vhd|
+!i113 1
+R14
+R15
+Adlx_rtl
+R1
+R4
+R5
+DEx4 work 3 dlx 0 22 nBdBQ7N^mbR9C6z>@M6>`3
+l226
+L41
+V?zibe`WoDocXSml0VnU`H1
+!s100 NL=R1ARi7X708Kg4^=FfW2
+R9
+32
+R48
+!i10b 1
+R11
+R49
+R50
+!i113 1
+R14
+R15
+Edlx_cu
+Z51 w1477239850
+R1
+R3
+R17
+R4
+R5
+R6
+Z52 8C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.a-CU_HW_NEW.vhd
+Z53 FC:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.a-CU_HW_NEW.vhd
+l0
+L8
+VFQ<z[68=>e`m_YVdJ]GE:1
+!s100 i1g[nb77:=`fKYQBT_^ig1
+R9
+32
+Z54 !s110 1477645246
+!i10b 1
+Z55 !s108 1477645246.000000
+Z56 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.a-CU_HW_NEW.vhd|
+Z57 !s107 C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.a-CU_HW_NEW.vhd|
+!i113 1
+R14
+R15
+Adlx_cu_hw
+R1
+R3
+R17
+R4
+R5
+DEx4 work 6 dlx_cu 0 22 FQ<z[68=>e`m_YVdJ]GE:1
+l176
+L90
+VmENNoc11Qh[gCC5ECU^7B0
+!s100 <:ORT3FL=ofRbE1b26n`O2
+R9
+32
+R54
+!i10b 1
+R55
+R56
+R57
+!i113 1
+R14
+R15
+Edlx_testbench
+Z58 w1477159274
+R1
+R3
+R17
+R4
+R5
+R6
+Z59 8C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/TB_TOP_DLX_NEW.vhd
+Z60 FC:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/TB_TOP_DLX_NEW.vhd
+l0
+L8
+Vl=QIAhS4dE_9eN4g3Fa5S0
+!s100 ^TYF<fTl[CNSLOlU@IC=<1
+R9
+32
+R54
+!i10b 1
+R55
+Z61 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/TB_TOP_DLX_NEW.vhd|
+Z62 !s107 C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/TB_TOP_DLX_NEW.vhd|
+!i113 1
+R14
+R15
+Atb
+R1
+R3
+R17
+R4
+R5
+DEx4 work 13 dlx_testbench 0 22 l=QIAhS4dE_9eN4g3Fa5S0
+l76
+L11
+V?o_RcKbFgLkdVQJ^<8ISM0
+!s100 m3IZI<lXRM9d?I`<9LWGO0
+R9
+32
+R54
+!i10b 1
+R55
+R61
+R62
+!i113 1
+R14
+R15
+Edram
+Z63 w1477159226
+R1
+Z64 DPx4 ieee 16 std_logic_textio 0 22 V5TSK`;aJKC<l]CEg1>mz1
+R17
+R3
+R4
+R5
+R6
+Z65 8C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.d-DRAM.vhd
+Z66 FC:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.d-DRAM.vhd
+l0
+L13
+V5NIZiPG6<n4WZmj38WT:30
+!s100 5oaaa8W3YVKXo2Goec]Vn0
+R9
+32
+R10
+!i10b 1
+R11
+Z67 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.d-DRAM.vhd|
+Z68 !s107 C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.d-DRAM.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R1
+R64
+R17
+R3
+R4
+R5
+DEx4 work 4 dram 0 22 5NIZiPG6<n4WZmj38WT:30
+l35
+L28
+VSMWM@LXO0]GW]?K4aWk7K0
+!s100 P]]S5adMa>QT6_8KGCA5Z0
+R9
+32
+R10
+!i10b 1
+R11
+R67
+R68
+!i113 1
+R14
+R15
+Egblock
+Z69 w1460491160
+R4
+R5
+R6
+Z70 8C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.a.a.a-Gblock.vhd
+Z71 FC:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.a.a.a-Gblock.vhd
+l0
+L4
+V@>J[3PFCPZDPY0;8Qj^J42
+!s100 l=9Pj4cc>J_0KD1gSAhH20
+R9
+32
+R54
+!i10b 1
+R55
+Z72 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.a.a.a-Gblock.vhd|
+Z73 !s107 C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.a.a.a-Gblock.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+DEx4 work 6 gblock 0 22 @>J[3PFCPZDPY0;8Qj^J42
+l12
+L11
+VI3JjKjlfk:RYH`kj4M]8O3
+!s100 B6<k;=ViYP4`:EMXW7]z>2
+R9
+32
+R54
+!i10b 1
+R55
+R72
+R73
+!i113 1
+R14
+R15
+Eiram
+Z74 w1477645242
+R64
+R3
+R4
+R5
+R6
+Z75 8C:\Users\user\Desktop\dlx-anna_v1\DLX-ANNA\a.c-IRAM.vhd
+Z76 FC:\Users\user\Desktop\dlx-anna_v1\DLX-ANNA\a.c-IRAM.vhd
+l0
+L11
+VoPPzQiK^H[keV8QTA^T<91
+!s100 3S3SiFf^L>U1LH11bc^jL1
+R9
+32
+R10
+!i10b 1
+R11
+Z77 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\user\Desktop\dlx-anna_v1\DLX-ANNA\a.c-IRAM.vhd|
+Z78 !s107 C:\Users\user\Desktop\dlx-anna_v1\DLX-ANNA\a.c-IRAM.vhd|
+!i113 1
+R14
+R15
+Airam_bhe
+R64
+R3
+R4
+R5
+DEx4 work 4 iram 0 22 oPPzQiK^H[keV8QTA^T<91
+l27
+L23
+VDY;GCZ66:^RcaRlOz<_<?3
+!s100 oE@gF5@Q26mF;@9dDbY_l2
+R9
+32
+R10
+!i10b 1
+R11
+R77
+R78
+!i113 1
+R14
+R15
+Plogfunction
+R3
+R4
+R5
+Z79 w1476220690
+R6
+Z80 8C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/100-LOGFUNCTION.vhd
+Z81 FC:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/100-LOGFUNCTION.vhd
+l0
+L5
+VRiZQ^4Mn@ALPCHI7CN8M]3
+!s100 88AXidcl2Me`>S01WF1e31
+R9
+32
+b1
+R54
+!i10b 1
+R55
+Z82 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/100-LOGFUNCTION.vhd|
+Z83 !s107 C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/100-LOGFUNCTION.vhd|
+!i113 1
+R14
+R15
+Bbody
+R40
+R3
+R4
+R5
+l0
+L11
+V6b]n^J9a7fE7IikYTFZ4;3
+!s100 WVe6bFB@5DL0;W>7]@Tio2
+R9
+32
+R54
+!i10b 1
+R55
+R82
+R83
+!i113 1
+R14
+R15
+nbody
+Elogic_unit
+Z84 w1477045197
+R1
+R4
+R5
+R6
+Z85 8C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.b-LOGIC_UNIT.vhd
+Z86 FC:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.b-LOGIC_UNIT.vhd
+l0
+L8
+VL=k6h1S0DD=Y[1UDhzJjA3
+!s100 _W1AfCC8MAEN>Mh=P^9?81
+R9
+32
+R20
+!i10b 1
+R21
+Z87 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.b-LOGIC_UNIT.vhd|
+Z88 !s107 C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.b-LOGIC_UNIT.vhd|
+!i113 1
+R14
+R15
+Abeh
+R1
+R4
+R5
+DEx4 work 10 logic_unit 0 22 L=k6h1S0DD=Y[1UDhzJjA3
+l18
+L16
+VcUlTL`;RgfCCK0_z[50h]0
+!s100 nJA@NM5FKRLg:NiO7DzZf0
+R9
+32
+R20
+!i10b 1
+R21
+R87
+R88
+!i113 1
+R14
+R15
+Emux21
+Z89 w1477038603
+R1
+R4
+R5
+R6
+Z90 8C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/010-mux21.vhd
+Z91 FC:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/010-mux21.vhd
+l0
+L6
+VFh^4YBCa50fK@CZbB8Kc`0
+!s100 X;8<2P<3;azjh1U^:oEj`3
+R9
+32
+R54
+!i10b 1
+R55
+Z92 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/010-mux21.vhd|
+Z93 !s107 C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/010-mux21.vhd|
+!i113 1
+R14
+R15
+Abehavioral_1
+R1
+R4
+R5
+DEx4 work 5 mux21 0 22 Fh^4YBCa50fK@CZbB8Kc`0
+l17
+L15
+V=X595B@GkPVR8B3ePmJ5[2
+!s100 W351fcVaU4c5;BgaVdZX50
+R9
+32
+R54
+!i10b 1
+R55
+R92
+R93
+!i113 1
+R14
+R15
+Emux4bit
+Z94 w1476803924
+R1
+R3
+R17
+R4
+R5
+R6
+Z95 8C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.a.b.a.b-mux4bit.vhd
+Z96 FC:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.a.b.a.b-mux4bit.vhd
+l0
+L9
+Ve;UX[>K?Sl9ekf[F0VzVV3
+!s100 :j[zYQ6f@:oK]NIUn@cVX2
+R9
+32
+R20
+!i10b 1
+R21
+Z97 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.a.b.a.b-mux4bit.vhd|
+Z98 !s107 C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.a.b.a.b-mux4bit.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R1
+R3
+R17
+R4
+R5
+DEx4 work 7 mux4bit 0 22 e;UX[>K?Sl9ekf[F0VzVV3
+l19
+L18
+VNh71A]8HM@2<?@f:zc5fL2
+!s100 V=YH3c9TfOAWo8eMEYKTA1
+R9
+32
+R20
+!i10b 1
+R21
+R97
+R98
+!i113 1
+R14
+R15
+Pmytypes
+R4
+R5
+w1477126376
+R6
+8C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/000-globals.vhd
+FC:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/000-globals.vhd
+l0
+L4
+VdnNeOmhPb1jf[NH;F?HQk3
+!s100 SgcQg5P`CgX`QMT0L7JA73
+R9
+32
+R54
+!i10b 1
+R55
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/000-globals.vhd|
+!s107 C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/000-globals.vhd|
+!i113 1
+R14
+R15
+Ep4adder
+Z99 w1476809590
+R1
+R4
+R5
+R6
+Z100 8C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.a-P4_ADDER.vhd
+Z101 FC:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.a-P4_ADDER.vhd
+l0
+L6
+V5TZ=5L`FRYKJY0QY;Qj2j2
+!s100 OPghY6OdZ1d4UKSBzM]Q30
+R9
+32
+R20
+!i10b 1
+R21
+Z102 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.a-P4_ADDER.vhd|
+Z103 !s107 C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.a-P4_ADDER.vhd|
+!i113 1
+R14
+R15
+Astructural
+R1
+R4
+R5
+DEx4 work 7 p4adder 0 22 5TZ=5L`FRYKJY0QY;Qj2j2
+l39
+L15
+V2V6Y93UhnS?`7Z59CAO2a2
+!s100 H:j;YaGzkV940PDQTUoX:2
+R9
+32
+R20
+!i10b 1
+R21
+R102
+R103
+!i113 1
+R14
+R15
+Epg
+Z104 w1460491198
+R4
+R5
+R6
+Z105 8C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.a.a.b-PG.vhd
+Z106 FC:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.a.a.b-PG.vhd
+l0
+L4
+VGfRLMTzI]>E86eNR<bing1
+!s100 ?LIiNA[F^bA=dl`FNI<XX2
+R9
+32
+R54
+!i10b 1
+R55
+Z107 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.a.a.b-PG.vhd|
+Z108 !s107 C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.a.a.b-PG.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+DEx4 work 2 pg 0 22 GfRLMTzI]>E86eNR<bing1
+l14
+L13
+VS^VN=dG]04<OWeCR2QNBb0
+!s100 1<e?<KTAP2eWe=@`n[M:b1
+R9
+32
+R54
+!i10b 1
+R55
+R107
+R108
+!i113 1
+R14
+R15
+Epgnetwork
+Z109 w1460491044
+R4
+R5
+R6
+Z110 8C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.a.a.c-PGnetwork.vhd
+Z111 FC:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.a.a.c-PGnetwork.vhd
+l0
+L4
+VFe62@3BUj5;45Z@GEbDA23
+!s100 L[IOh2HXg[gQAIg]l:UnE3
+R9
+32
+R54
+!i10b 1
+R55
+Z112 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.a.a.c-PGnetwork.vhd|
+Z113 !s107 C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.a.a.c-PGnetwork.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+DEx4 work 9 pgnetwork 0 22 Fe62@3BUj5;45Z@GEbDA23
+l10
+L9
+V_8?_E12hJlK0E0SdZOo8i3
+!s100 ?0mQghJa6KfO<8;fP3jRn1
+R9
+32
+R54
+!i10b 1
+R55
+R112
+R113
+!i113 1
+R14
+R15
+Erca
+Z114 w1476811159
+R1
+R3
+R17
+R4
+R5
+R6
+Z115 8C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.a.b.a.a-rca.vhd
+Z116 FC:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.a.b.a.a-rca.vhd
+l0
+L8
+V9R5EGET;XCCK;]9@E65XT0
+!s100 eS`BgN?8Cb0P19^8b9e^j2
+R9
+32
+R20
+!i10b 1
+R21
+Z117 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.a.b.a.a-rca.vhd|
+Z118 !s107 C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.a.b.a.a-rca.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R1
+R3
+R17
+R4
+R5
+DEx4 work 3 rca 0 22 9R5EGET;XCCK;]9@E65XT0
+l22
+L20
+V>zL6c_9ZoRe=7<lYMJm;I3
+!s100 AnIg;Q3PIOc?:4NMV8gOS0
+R9
+32
+R20
+!i10b 1
+R21
+R117
+R118
+!i113 1
+R14
+R15
+Ereg
+Z119 w1476442526
+R1
+R4
+R5
+R6
+Z120 8C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/011-registers.vhd
+Z121 FC:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/011-registers.vhd
+l0
+L6
+Va`V;Bk`DhlWDTHz4LKFSN2
+!s100 hfRjzDO>Yc>FAO;dQS=fV0
+R9
+32
+R54
+!i10b 1
+R55
+Z122 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/011-registers.vhd|
+Z123 !s107 C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/011-registers.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R1
+R4
+R5
+DEx4 work 3 reg 0 22 a`V;Bk`DhlWDTHz4LKFSN2
+l16
+L15
+VfHb?1b]@kdR:5I?179B[`0
+!s100 <MA>IXd3]?^:dE7F[c9>M0
+R9
+32
+R54
+!i10b 1
+R55
+R122
+R123
+!i113 1
+R14
+R15
+Eregister_file
+Z124 w1476720915
+R40
+R1
+Z125 DPx4 ieee 9 math_real 0 22 Sk6CSihbPL<f[^Shm]=KX0
+R3
+R17
+R4
+R5
+R6
+Z126 8C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.c-registerfile.vhd
+Z127 FC:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.c-registerfile.vhd
+l0
+L9
+V2FV:k2;25<Y5X^iSSG]XZ0
+!s100 IcXHR36W2^AVNTOP87j]U1
+R9
+32
+R10
+!i10b 1
+R11
+Z128 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.c-registerfile.vhd|
+Z129 !s107 C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.c-registerfile.vhd|
+!i113 1
+R14
+R15
+Abeh
+R40
+R1
+R125
+R3
+R17
+R4
+R5
+DEx4 work 13 register_file 0 22 2FV:k2;25<Y5X^iSSG]XZ0
+l32
+L26
+VL;^VPbORYGN2[Ik2Il:Td1
+!s100 :2I29`UCIKGj>>Gi0TEab3
+R9
+32
+R10
+!i10b 1
+R11
+R128
+R129
+!i113 1
+R14
+R15
+Eregw
+Z130 w1476904711
+R1
+R125
+R3
+R17
+R4
+R5
+R6
+Z131 8C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.e-RW.vhd
+Z132 FC:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.e-RW.vhd
+l0
+L13
+VGShN_C25WB5DbQ37d8?6>2
+!s100 0nn>nezd@SH@Ym;iZ4BR^1
+R9
+32
+R10
+!i10b 1
+R11
+Z133 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.e-RW.vhd|
+Z134 !s107 C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.e-RW.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R1
+R125
+R3
+R17
+R4
+R5
+DEx4 work 4 regw 0 22 GShN_C25WB5DbQ37d8?6>2
+l26
+L24
+VL6O_dk2]bRLLV@V^9l:fb3
+!s100 `SFR9R[jBk3JKjU8PYQX52
+R9
+32
+R10
+!i10b 1
+R11
+R133
+R134
+!i113 1
+R14
+R15
+Eshifter
+Z135 w1476439548
+R1
+R3
+R17
+R4
+R5
+R6
+Z136 8C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.c-SHIFTER.vhd
+Z137 FC:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.c-SHIFTER.vhd
+l0
+L8
+VkP@^F5?ceDaUW^UT60H=81
+!s100 dS^[hC?PoIm5<B78e_]111
+R9
+32
+R20
+!i10b 1
+R21
+Z138 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.c-SHIFTER.vhd|
+Z139 !s107 C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.c-SHIFTER.vhd|
+!i113 1
+R14
+R15
+Abeh
+R1
+R3
+R17
+R4
+R5
+DEx4 work 7 shifter 0 22 kP@^F5?ceDaUW^UT60H=81
+l20
+L16
+V_gRQzQPZdOm_CQgLI85LP0
+!s100 JZI8_bia1ke8G?SB8FIk33
+R9
+32
+R20
+!i10b 1
+R21
+R138
+R139
+!i113 1
+R14
+R15
+Eshifter_generic
+Z140 w1477158399
+R17
+R3
+R4
+R5
+R6
+Z141 8C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/001-generic_shifter.vhd
+Z142 FC:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/001-generic_shifter.vhd
+l0
+L8
+V[S@Q_Oig8:SBlkzA[JJdP0
+!s100 T:G3KKah<1aH0<Cn1Xn[K3
+R9
+32
+R54
+!i10b 1
+R55
+Z143 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/001-generic_shifter.vhd|
+Z144 !s107 C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/001-generic_shifter.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R17
+R3
+R4
+R5
+DEx4 work 15 shifter_generic 0 22 [S@Q_Oig8:SBlkzA[JJdP0
+l24
+L22
+VTkC8^ON`4lQC<NhnPHAm71
+!s100 C2mXmU1NJ3U:26M1YT`J=2
+R9
+32
+R54
+!i10b 1
+R55
+R143
+R144
+!i113 1
+R14
+R15
+Esignext
+Z145 w1476815776
+R1
+R125
+R3
+R17
+R4
+R5
+R6
+Z146 8C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.d-SIGNEXT.vhd
+Z147 FC:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.d-SIGNEXT.vhd
+l0
+L10
+V0aFn?od]MeNlJaJ0DBl?91
+!s100 0G^ML?[MGfnoJgQ]<ejCf2
+R9
+32
+R10
+!i10b 1
+R11
+Z148 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.d-SIGNEXT.vhd|
+Z149 !s107 C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.d-SIGNEXT.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R1
+R125
+R3
+R17
+R4
+R5
+DEx4 work 7 signext 0 22 0aFn?od]MeNlJaJ0DBl?91
+l20
+L19
+Vd5WE9KIV>j[KQhEBeSjQ33
+!s100 nZFbBoM=R37@Yk@eVg@om3
+R9
+32
+R10
+!i10b 1
+R11
+R148
+R149
+!i113 1
+R14
+R15
+Esparse_tree
+Z150 w1476440888
+R1
+R4
+R5
+R6
+Z151 8C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.a.a-sparse_tree.vhd
+Z152 FC:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.a.a-sparse_tree.vhd
+l0
+L6
+V0=llNGS^B0Zb<fG<ZhVT<1
+!s100 [ES2UW73LV]][?Xh=;?@h3
+R9
+32
+R20
+!i10b 1
+R55
+Z153 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.a.a-sparse_tree.vhd|
+Z154 !s107 C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.a.a-sparse_tree.vhd|
+!i113 1
+R14
+R15
+Astructural
+R1
+R4
+R5
+DEx4 work 11 sparse_tree 0 22 0=llNGS^B0Zb<fG<ZhVT<1
+l54
+L14
+VK1LK=bbjbl3S?`iY=Ma3z0
+!s100 <LV2kjgLbTCg?9leRj4430
+R9
+32
+R20
+!i10b 1
+R55
+R153
+R154
+!i113 1
+R14
+R15
+Esum_generator
+Z155 w1476541936
+R1
+R4
+R5
+R6
+Z156 8C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.a.b-sum_generator.vhd
+Z157 FC:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.a.b-sum_generator.vhd
+l0
+L6
+VUISa[:BODXV4FD@_mm=:j2
+!s100 CK=abML5b7`ELPLOH==n@1
+R9
+32
+R20
+!i10b 1
+R21
+Z158 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.a.b-sum_generator.vhd|
+Z159 !s107 C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.a.b-sum_generator.vhd|
+!i113 1
+R14
+R15
+Astructural
+R1
+R4
+R5
+DEx4 work 13 sum_generator 0 22 UISa[:BODXV4FD@_mm=:j2
+l29
+L18
+V]jLaU:=9_W20=281M[;=o0
+!s100 NA@j0Dl@L<_edNXJB3?JB1
+R9
+32
+R20
+!i10b 1
+R21
+R158
+R159
+!i113 1
+R14
+R15
+Etb_alu1
+Z160 w1476811675
+R1
+R3
+R17
+R4
+R5
+R6
+Z161 8C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/TB_ALU1.vhd
+Z162 FC:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/TB_ALU1.vhd
+l0
+L7
+VMkN3^`7l9^f7VhWj4z8c23
+!s100 n2`L`@SHNBVmE^bI=0g370
+R9
+32
+R48
+!i10b 1
+Z163 !s108 1477645249.000000
+Z164 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/TB_ALU1.vhd|
+Z165 !s107 C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/TB_ALU1.vhd|
+!i113 1
+R14
+R15
+Amytb
+R1
+R3
+R17
+R4
+R5
+DEx4 work 7 tb_alu1 0 22 MkN3^`7l9^f7VhWj4z8c23
+l23
+L10
+VOLi9jaCdbPH1:7^4ioZ6b1
+!s100 R=;WCFFZ4n38[mCKOJPV@1
+R9
+32
+R48
+!i10b 1
+R163
+R164
+R165
+!i113 1
+R14
+R15
+Etb_p4adder
+Z166 w1476810573
+R1
+R3
+R17
+R4
+R5
+R6
+Z167 8C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/TB_P4ADDER.vhd
+Z168 FC:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/TB_P4ADDER.vhd
+l0
+L7
+Vj2YJ2G5<]7CmCEcFKco<E0
+!s100 >b?C`JA?]Ha4RB=<AZ6Si2
+R9
+32
+R48
+!i10b 1
+R163
+Z169 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/TB_P4ADDER.vhd|
+Z170 !s107 C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/TB_P4ADDER.vhd|
+!i113 1
+R14
+R15
+Atb1
+R1
+R3
+R17
+R4
+R5
+Z171 DEx4 work 10 tb_p4adder 0 22 j2YJ2G5<]7CmCEcFKco<E0
+l26
+L10
+Z172 V:[i0U]i_z@O`HTDc3>M<b0
+Z173 !s100 8U<miN=[;G]7j?3fJ:8R@2
+R9
+32
+R48
+!i10b 1
+R163
+R169
+R170
+!i113 1
+R14
+R15

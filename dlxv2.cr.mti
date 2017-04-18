@@ -1,0 +1,326 @@
+C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.e-RW.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.e-RW.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package MATH_REAL
+-- Loading package myTypes
+-- Compiling entity RegW
+-- Compiling architecture behavioral of RegW
+
+} {} {}} C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.b-LOGIC_UNIT.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.b-LOGIC_UNIT.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package myTypes
+-- Compiling entity LOGIC_UNIT
+-- Compiling architecture BEH of LOGIC_UNIT
+
+} {} {}} C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.a.b.a-carry_select.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.a.b.a-carry_select.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package myTypes
+-- Compiling entity carry_select
+-- Compiling architecture structural of carry_select
+
+} {} {}} C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.c-registerfile.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.c-registerfile.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package MATH_REAL
+-- Loading package myTypes
+-- Loading package LOGFUNCTION
+-- Compiling entity register_file
+-- Compiling architecture beh of register_file
+
+} {} {}} C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.a-CU_HW_NEW.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.a-CU_HW_NEW.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package myTypes
+-- Compiling entity dlx_cu
+-- Compiling architecture dlx_cu_hw of dlx_cu
+
+} {} {}} C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b-DataPath.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b-DataPath.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package LOGFUNCTION
+-- Loading package myTypes
+-- Compiling entity DATAPATH
+-- Compiling architecture structural of DATAPATH
+
+} {} {}} C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.a.a.c-PGnetwork.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.a.a.c-PGnetwork.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity PGnetwork
+-- Compiling architecture behavioral of PGnetwork
+
+} {} {}} C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.b-adder.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.b-adder.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Loading package myTypes
+-- Compiling entity adder
+-- Compiling architecture beh of adder
+
+} {} {}} C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/100-LOGFUNCTION.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/100-LOGFUNCTION.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling package LOGFUNCTION
+-- Compiling package body LOGFUNCTION
+-- Loading package LOGFUNCTION
+
+} {} {}} C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.d-COMPARATOR.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.d-COMPARATOR.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package myTypes
+-- Compiling entity COMPARATOR
+-- Compiling architecture behavior of COMPARATOR
+
+} {} {}} C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.a.b-sum_generator.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.a.b-sum_generator.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package myTypes
+-- Compiling entity sum_generator
+-- Compiling architecture structural of sum_generator
+
+} {} {}} C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/001-generic_shifter.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/001-generic_shifter.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity SHIFTER_GENERIC
+-- Compiling architecture BEHAVIORAL of SHIFTER_GENERIC
+
+} {} {}} C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.a.b.a.b-mux4bit.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.a.b.a.b-mux4bit.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package myTypes
+-- Compiling entity mux4bit
+-- Compiling architecture BEHAVIORAL of mux4bit
+
+} {} {}} C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.a.b.a.a-rca.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.a.b.a.a-rca.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package myTypes
+-- Compiling entity RCA
+-- Compiling architecture BEHAVIORAL of RCA
+
+} {} {}} C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/TB_TOP_DLX_NEW.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/TB_TOP_DLX_NEW.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package myTypes
+-- Compiling entity DLX_TestBench
+-- Compiling architecture tb of DLX_TestBench
+
+} {} {}} C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.a.a-sparse_tree.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.a.a-sparse_tree.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package myTypes
+-- Compiling entity sparse_tree
+-- Compiling architecture structural of sparse_tree
+
+} {} {}} C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.d-SIGNEXT.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.d-SIGNEXT.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package MATH_REAL
+-- Loading package myTypes
+-- Compiling entity SIGNEXT
+-- Compiling architecture behavioral of SIGNEXT
+
+} {} {}} C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.a.a.b-PG.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.a.a.b-PG.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity PG
+-- Compiling architecture behavioral of PG
+
+} {} {}} C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.c-SHIFTER.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.c-SHIFTER.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package myTypes
+-- Compiling entity SHIFTER
+-- Compiling architecture beh of SHIFTER
+
+} {} {}} C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/010-mux21.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/010-mux21.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package myTypes
+-- Compiling entity MUX21
+-- Compiling architecture BEHAVIORAL_1 of MUX21
+
+} {} {}} C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.d-DRAM.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.d-DRAM.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package std_logic_textio
+-- Loading package myTypes
+-- Compiling entity DRAM
+-- Compiling architecture behavioral of DRAM
+
+} {} {}} C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.a.a.a-Gblock.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.a.a.a-Gblock.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Gblock
+-- Compiling architecture behavioral of Gblock
+
+} {} {}} C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b-DataPath_NEW.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b-DataPath_NEW.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package LOGFUNCTION
+-- Loading package myTypes
+-- Compiling entity DATAPATH
+-- Compiling architecture structural of DATAPATH
+
+} {} {}} {C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a-DLX _NEW.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a-DLX _NEW.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package myTypes
+-- Compiling entity DLX
+-- Compiling architecture dlx_rtl of DLX
+
+} {} {}} C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a-alu.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a-alu.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package myTypes
+-- Compiling entity ALU
+-- Compiling architecture BEH of ALU
+
+} {} {}} C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.a-P4_ADDER.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.a.a-P4_ADDER.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package myTypes
+-- Compiling entity P4adder
+-- Compiling architecture structural of P4adder
+
+} {} {}} C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/011-registers.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/011-registers.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package myTypes
+-- Compiling entity Reg
+-- Compiling architecture Behavioral of Reg
+
+} {} {}} C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.c-IRAM.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\user\Desktop\dlx-anna_v1\DLX-ANNA\a.c-IRAM.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_textio
+-- Compiling entity IRAM
+-- Compiling architecture IRam_Bhe of IRAM
+
+} {} {}} C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/TB_ALU1.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/TB_ALU1.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package myTypes
+-- Compiling entity TB_ALU1
+-- Compiling architecture myTB of TB_ALU1
+
+} {} {}} C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.f-BRANCH.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/a.b.f-BRANCH.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package myTypes
+-- Compiling entity branch
+-- Compiling architecture behavioral of branch
+
+} {} {}} C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/TB_P4ADDER.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/TB_P4ADDER.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package myTypes
+-- Compiling entity TB_P4ADDER
+-- Compiling architecture TB1 of TB_P4ADDER
+
+} {} {}} C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/000-globals.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/user/Desktop/dlx-anna_v1/DLX-ANNA/000-globals.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling package myTypes
+
+} {} {}}
